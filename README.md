@@ -1,5 +1,10 @@
 ### Hi there 👋
+### Hi 👋
+I am Sudharsan, a 23 year old Frontend Engineer from Bengaluru, India.
+I am currently working as a Web Engineer at Fubo TV, a live TV streaming platform based out of NYC. I am a graduate of Dayananda Sagar College,Bangalore, where I studied Bachelor of Computer Applications
+I usually work on Javascript, React, Gatsby and NextJS. I am exploring Golang as well to build backend.
 
+sudharsangs.in
 <!--
 **shashwathbc/shashwathbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

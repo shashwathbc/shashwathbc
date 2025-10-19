@@ -1,7 +1,6 @@
 ### Hi there 👋
-### I am Shashwath, a 24 year old Senior Software Engineer from Bengaluru, India.
-I am currently working as a Senior Software Engineer in Taazaa. I am a graduate of Dayananda Sagar College,Bangalore, where I studied Bachelor of Computer Applications
-I usually work on Javascript, React.
+### Hi, I’m Shashwath, a Senior Software Engineer from Bengaluru, India, passionate about building scalable web apps and exploring AI.
+I specialize in JavaScript, React, and Python, with growing expertise in Machine Learning, Deep Learning, and Data Analysis using tools like Scikit-learn, TensorFlow, and PyTorch.
 
 <!--
 **shashwathbc/shashwathbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

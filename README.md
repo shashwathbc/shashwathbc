@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi, I’m Shashwath, a Senior Software Engineer from Bengaluru, India, passionate about building scalable web apps and exploring AI.
+### Hi, I’m Shashwath, a 25 year old Senior Software Engineer from Bengaluru, India, passionate about building scalable web apps and exploring AI.
 I specialize in JavaScript, React, and Python, with growing expertise in Machine Learning, Deep Learning, and Data Analysis using tools like Scikit-learn, TensorFlow, and PyTorch.
 
 <!--
